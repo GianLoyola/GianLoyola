@@ -1,11 +1,11 @@
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTk1b2p0aHY3cWhsYW5zdHpqdm8xYTJudmNuOTBqNWtsMTF5NnNmbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.gif" alt="Title"></img>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&width=435&height=100&lines=Hi!!+I'm+Giancarlos%2C+a+frontend+developer!" alt="Typing SVG" /></a>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: I'm **Giancarlos Loyola Caraza** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :credit_card: I'm **Giancarlos Loyola Caraza** <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpsZXlycTlyZzQ2cm8wbzhqZDZoYzZxYnAwd3lodGo3bzAzcmduNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="300" height="220" align="right"/>
 - :school: I'm currently studying at **Universidad Autónoma de Ica**, 8th semester.
 - :books: Pursuing a degree in **Systems Engineering**.
 - :earth_asia: Living in **Chincha, Peru**.
@@ -24,8 +24,8 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> GitHub Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giancarlosloyola&layout=compact&show_icon=true&theme=algolia" alt="giancarlosloyola-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=giancarlosloyola&layout=compact&show_icon=true&theme=algolia" alt="giancarlosloyola-stats"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianLoyola&layout=compact&show_icon=true&theme=algolia" alt="gianLoyola"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=gianLoyola&layout=compact&show_icon=true&theme=algolia" alt="gianLoyola"/>
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Contact Me!
@@ -34,10 +34,12 @@
     <img align="center" alt="Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
     
-  <a href="https://github.com/gianloyola" target="_blank">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/gianLoyola" target="_blank">
     <img align="center" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 </p>
-
+<div align="center">
+  :heart_eyes: Thanks for reading ! :wink: <br/>
+</div>
 
 ------
